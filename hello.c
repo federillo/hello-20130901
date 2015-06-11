@@ -1,3 +1,4 @@
+#v0.1
 #include <stdio.h>
 #include <time.h>
 
